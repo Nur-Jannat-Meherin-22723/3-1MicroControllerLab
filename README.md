@@ -1,1 +1,1 @@
-# 3-1MicroControllerLab
+This is my 3rd year 1st semester Microcontroller Lab Assignments on Road Traffic System. I did the First and second assignments with a teammate. The third and fourth assignments were done with three teammates.
